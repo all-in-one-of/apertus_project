@@ -50,4 +50,4 @@ The Design could be simple that it reduces the material and specialy the tooling
 
 The Hardware Components are mostly Bluetooth Module, Battery and LED Stripes.
 
-Material cost would be low. mostly the tooling will cost a lot.
+Material cost would be low. mostly the tooling cost is the expensiv part.
